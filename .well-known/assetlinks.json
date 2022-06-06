@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.devdactic.deeplinks",
-               "sha256_cert_fingerprints": ["92:72:B4:DB:38:09:64:AB:C9:B6:A3:40:18:E1:C1:2C:CE:17:C1:03:D2:52:1B:48:45:65:03:2A:8E:C2:51:0A"] }
+               "sha256_cert_fingerprints": ["D6:6A:9C:5A:52:08:FB:F7:2B:1E:FA:08:7B:03:CE:93:D7:3B:D7:8D:13:F7:8B:67:B6:26:2E:9F:3A:C8:4F:AD"] }
 }]
